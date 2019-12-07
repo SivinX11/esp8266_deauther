@@ -67,9 +67,6 @@ This project is meant to draw more attention on this issue.
 The [deauthentication](https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack) attack shows how vulnerable the 802.11 Wi-Fi standard is and that it has to be fixed.  
 A solution is already there, why don't we use it?
 
-**Please don't refer to this project as "jammer", that totally undermines the real purpose of this project!**
-If you do, it only proves that you didn't understand anything of what this project stands for. Publishing content about this without a proper explanation shows that you only do it for the clicks, fame and/or money and have no respect for intellectual property, the community behind it and the fight for a better WiFi standard!  
-
 
 
 ## Credits
