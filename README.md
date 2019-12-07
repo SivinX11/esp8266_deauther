@@ -70,10 +70,7 @@ A solution is already there, why don't we use it?
 **Please don't refer to this project as "jammer", that totally undermines the real purpose of this project!**
 If you do, it only proves that you didn't understand anything of what this project stands for. Publishing content about this without a proper explanation shows that you only do it for the clicks, fame and/or money and have no respect for intellectual property, the community behind it and the fight for a better WiFi standard!  
 
-## Getting Started
 
-Visit our new [Wiki](https://github.com/spacehuhn/esp8266_deauther/wiki) on how to recreate this project and use it.  
-Happy Hacking!
 
 ## Credits
 A huge thanks to:
@@ -85,9 +82,7 @@ A huge thanks to:
 - [@xdavidhu](https://github.com/xdavidhu)
 - [@PwnKitteh](https://github.com/PwnKitteh)
 
-for helping out with various things regarding this project and keeping it alive!  
-
-I also want to thank Espressif and their community for this awesome chip and all the software and hardware projects around it and the countless tutorials you can find online!  
+for helping out with various things regarding this project and keeping it alive! 
 
 Shoutout to everyone working on the libraries used for this project:
 - [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
